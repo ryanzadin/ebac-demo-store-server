@@ -72,9 +72,6 @@
     "modulePathIgnorePatterns": [
       "<rootDir>/dist/"
     ]
-  },
-  "description": "In the project directory you can run:",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  }
+ 
    }
